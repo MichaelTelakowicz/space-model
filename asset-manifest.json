@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/space-model/static/css/main.8e63f89d.css",
+    "main.js": "/space-model/static/js/main.191fbed5.js",
+    "static/media/moon.jpg": "/space-model/static/media/moon.d5d2aaec966655fb73eb.jpg",
+    "static/media/mercury.jpg": "/space-model/static/media/mercury.6b6307694d5de48907e9.jpg",
+    "static/media/venus.jpg": "/space-model/static/media/venus.6a91789209aae5541a67.jpg",
+    "static/media/mars.jpg": "/space-model/static/media/mars.4de9df1e1b5667f7aa99.jpg",
+    "static/media/jupiter.jpg": "/space-model/static/media/jupiter.b85df5aa295d08130abc.jpg",
+    "static/media/earth.jpg": "/space-model/static/media/earth.5ad30e7f4ed3c5c4c5a2.jpg",
+    "static/media/sun.jpg": "/space-model/static/media/sun.b6de6218bc7a03df49a6.jpg",
+    "index.html": "/space-model/index.html",
+    "main.8e63f89d.css.map": "/space-model/static/css/main.8e63f89d.css.map",
+    "main.191fbed5.js.map": "/space-model/static/js/main.191fbed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e63f89d.css",
+    "static/js/main.191fbed5.js"
+  ]
+}
